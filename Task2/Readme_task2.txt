@@ -1,18 +1,18 @@
-To understand the task better, I did some study and found a resarch paper publised
+To understand the task better, I did some study and found a resarch paper published
 on a similar topic.
 
-The paper talked about how Accelerometer data can be used to calculate distnce travelled
+The paper talked about how Accelerometer data can be used to calculate distance travelled
 
 The reference paper has been included in the reference folder of Task2
 
 Implementation of this task took the following steps:
 ->Taking Accelerometer data from Matlab Mobile
-->Convert the .csv file into .xlsx file\
+->Convert the .csv file into .xlsx file
 ->Calculate the total Magnitude of Accelerometer
 ->This data can be plotted against time for reference
 ->A peak detection algorithm was designed
 ->A threshold/filter value was also chosen
-->Step Size was calculated the distance was clculated by implementing the algorithm
+->Step Size was calculated the distance was calculated by implementing the algorithm
 ->Average step size was calculate while walking
 ->Number of steps were accordingly calculated.
 
