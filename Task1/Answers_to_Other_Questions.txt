@@ -1,0 +1,10 @@
+I took few readings by placing my finger a little away from the camera,
+The readings taken with finger stuck closely to the camera gave better results.
+
+Yes, some readings work better than the others
+
+The possible reason acoording to me could be:
+For our video, the camera record the light that comes thorugh our skin directly.
+if there is some gap between the camera and finger, light from some other source
+may cause interference by adding extra light and distorting the actual ratio of RGB
+in the pixels of the frame we need to read accurately.
