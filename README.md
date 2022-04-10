@@ -65,3 +65,5 @@ These changes allowed me to use the highly specialized model in a more generaliz
 
 The other details about the Task 3 and how to deploy it are in the "Readme_task3" file under Task3 folder<br><br>
 The video demonstration of Task 3 is <a href="https://drive.google.com/file/d/1bIn-FoeXaHuOoDRmfNfFjhRWlu-Dl0E8/view?usp=sharing">here</a><br><br><hr>
+
+**The answers to other questions asked at the end of each task are included in the text file named "Answers_to_Other_Questions" under repective Task folders.
