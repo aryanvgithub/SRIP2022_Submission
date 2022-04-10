@@ -22,7 +22,7 @@ The video demonstration of Task 1 is <a href="https://drive.google.com/file/d/1L
 ">here</a><br><br><hr>
 
 <h3>Task 2:</h3>
-To understand the task better, I did some study and found a resarch paper publised
+To understand the task better, I did some study and found a resarch paper published
 on a similar topic.<br><br>
 
 The paper talked about how Accelerometer data can be used to calculate distance travelled<br><br>
