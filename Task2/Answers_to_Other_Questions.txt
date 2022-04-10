@@ -1,0 +1,10 @@
+Peaks:
+Each peak has a start point, a top and an end point.
+
+These peaks signify a particular activity like running, walking etc.
+
+The acceleration and de-acceleration is shown by the rise and fall of the peak.
+
+The step size while running, walking etc is different and for the same reason
+the peak width is calculated in the code and the multiplier is assigned accordingly
+to calculate the distance.
