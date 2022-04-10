@@ -14,7 +14,7 @@ Implementation of this task took the following steps:<br>
 ->The plot of Redness against frames had peaks in it<br>
 ->These peaks signifies the time at wich your heart pumps the blood<br>
 ->The duration between two peaks signify the time between two pulses<br>
-->Accordingly the algorithmcalculates the Heart Rate<br><br>
+->Accordingly the algorithm calculates the Heart Rate<br><br>
 
 The other details about the Task and how to deploy it are in the "Readme_task1" file under Task1 folder<br><br>
 
@@ -25,7 +25,7 @@ The video demonstration of Task 1 is <a href="https://drive.google.com/file/d/1L
 To understand the task better, I did some study and found a resarch paper publised
 on a similar topic.<br><br>
 
-The paper talked about how Accelerometer data can be used to calculate distnce travelled<br><br>
+The paper talked about how Accelerometer data can be used to calculate distance travelled<br><br>
 
 The reference paper has been included in the reference folder of Task2<br><br>
 
@@ -36,7 +36,7 @@ Implementation of this task took the following steps:<br>
 ->This data can be plotted against time for reference<br>
 ->A peak detection algorithm was designed<br>
 ->A threshold/filter value was also chosen<br>
-->Step Size was calculated the distance was clculated by implementing the algorithm<br>
+->Step Size was calculated the distance was calculated by implementing the algorithm<br>
 ->Average step size was calculate while walking<br>
 ->Number of steps were accordingly calculated.<br><br>
 
@@ -52,7 +52,7 @@ To complete this task I have followed the example given <a href="https://www.ten
 For solving this task a pre-trained model "YAMnet" was taken in use.<br><br>
 
 YAMnet is a highly specialized model that can even differenciate between sounds made by
-insects, birds and even differenciate between different different kind of noise 
+insects, birds and even differenciate between different kind of noise 
 like white noise, traffic etc.<br><br>
 
 As the question required the classifiation only among Scilence, Speech and Noise,
@@ -61,7 +61,7 @@ accordingly changes were made in the "ProbabilitiesAdapter.kt" file of the given
 Further some changes were made in the UI to meet the problem statement.
 A screenshot displaying the same has been attached in the "Task3"<br><br>
 
-These changes allowed me to use the highly spealized model in a more generalized manner.<br><br>
+These changes allowed me to use the highly specialized model in a more generalized manner.<br><br>
 
 The other details about the Task 3 and how to deploy it are in the "Readme_task3" file under Task3 folder<br><br>
 The video demonstration of Task 3 is <a href="https://drive.google.com/file/d/1bIn-FoeXaHuOoDRmfNfFjhRWlu-Dl0E8/view?usp=sharing">here</a><br><br><hr>
