@@ -1,6 +1,6 @@
 # SRIP2022_Submission
 
-<h3>Task 1:</h3><br>
+<h3>Task 1:</h3>
 To solve this task, I traversed through some resarch papers published on the same topic.<br><br>
 
 One of the resarch paper deeply explained the process and how the algorithm can be implemented
@@ -19,9 +19,9 @@ Implementation of this task took the following steps:<br>
 The other details about the Task and how to deploy it are in the "Readme_task1" file under Task1 folder<br><br>
 
 The video demonstration of Task 1 is <a href="https://drive.google.com/file/d/1LdtaNA5O-G-pwPnx2BB5Ph_-T84_PaiH/view?usp=sharing
-">here</a><br><br><br>
+">here</a><br><br><hr>
 
-<h3>Task 2:</h3><br>
+<h3>Task 2:</h3>
 To understand the task better, I did some study and found a resarch paper publised
 on a similar topic.<br><br>
 
@@ -44,11 +44,10 @@ The other details about the Task 2 and how to deploy it are in the "Readme_task2
 
 The video demonstration of Task 2 is <a href="https://drive.google.com/file/d/1885JOvdvGUh8z36CrKPAjOTxyQCx60F3/view?usp=sharing">here</a><br><br><hr>
 
-<h3>Task 3:</h3><br>
+<h3>Task 3:</h3>
 This was my first experience working with both TensorFlow and App development.<br><br>
 
-To complete this task I have followed the example given <a href="
-https://www.tensorflow.org/lite/examples/audio_classification/overview">here</a><br><br>
+To complete this task I have followed the example given <a href="https://www.tensorflow.org/lite/examples/audio_classification/overview">here</a><br><br>
 
 For solving this task a pre-trained model "YAMnet" was taken in use.<br><br>
 
@@ -65,4 +64,4 @@ A screenshot displaying the same has been attached in the "Task3"<br><br>
 These changes allowed me to use the highly spealized model in a more generalized manner.<br><br>
 
 The other details about the Task 3 and how to deploy it are in the "Readme_task3" file under Task3 folder<br><br>
-The video demonstration of Task 3 is <a href="https://drive.google.com/file/d/1bIn-FoeXaHuOoDRmfNfFjhRWlu-Dl0E8/view?usp=sharing">here</a><br><br><br>
+The video demonstration of Task 3 is <a href="https://drive.google.com/file/d/1bIn-FoeXaHuOoDRmfNfFjhRWlu-Dl0E8/view?usp=sharing">here</a><br><br><hr>
