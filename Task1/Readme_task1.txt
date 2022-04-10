@@ -11,7 +11,7 @@ Implementation of this task took the following steps:
 ->The plot of Redness against frames had peaks in it
 ->These peaks signifies the time at wich your heart pumps the blood
 ->The duration between two peaks signify the time between two pulses
-->Accordingly the algorithmcalculates the Heart Rate
+->Accordingly the algorithm calculates the Heart Rate
 
 The output graph was plotted in Matlab for reference and is included in the Task1 folder.
 
@@ -24,7 +24,7 @@ Pre-requisites to run the code on local machine:
 
 Copy all the files and folders under "Task1" in a single directory for ease of use
 
-For best results with this algorith record the finger video on 30FPS settings.
+For best results with this algorithm record the finger video on 30FPS settings.
 
 The code trims the video uploaded into a 10 secend video and then save it frame by frame
 into 300 different frames
