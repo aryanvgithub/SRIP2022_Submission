@@ -21,7 +21,7 @@ The other details about the Task and how to deploy it are in the "Readme_task1" 
 The video demonstration of Task 1 is <a href="https://drive.google.com/file/d/1LdtaNA5O-G-pwPnx2BB5Ph_-T84_PaiH/view?usp=sharing
 ">here</a><br><br><br>
 
-<h3>Task 2:</h3><br><br>
+<h3>Task 2:</h3><br>
 To understand the task better, I did some study and found a resarch paper publised
 on a similar topic.<br><br>
 
@@ -40,15 +40,15 @@ Implementation of this task took the following steps:<br>
 ->Average step size was calculate while walking<br>
 ->Number of steps were accordingly calculated.<br><br>
 
-The other details about the Task and how to deploy it are in the "Readme_task2" file under Task2 folder<br><br>
+The other details about the Task 2 and how to deploy it are in the "Readme_task2" file under Task2 folder<br><br>
 
-The video demonstration of Task 2 is <a href="https://drive.google.com/file/d/1885JOvdvGUh8z36CrKPAjOTxyQCx60F3/view?usp=sharing">here</a><br><br><br>
+The video demonstration of Task 2 is <a href="https://drive.google.com/file/d/1885JOvdvGUh8z36CrKPAjOTxyQCx60F3/view?usp=sharing">here</a><br><br><hr>
 
-<h3>Task 3:</h3><br><br>
+<h3>Task 3:</h3><br>
 This was my first experience working with both TensorFlow and App development.<br><br>
 
 To complete this task I have followed the example given <a href="
-https://www.tensorflow.org/lite/examples/audio_classification/overview"here</a><br><br>
+https://www.tensorflow.org/lite/examples/audio_classification/overview">here</a><br><br>
 
 For solving this task a pre-trained model "YAMnet" was taken in use.<br><br>
 
@@ -64,5 +64,5 @@ A screenshot displaying the same has been attached in the "Task3"<br><br>
 
 These changes allowed me to use the highly spealized model in a more generalized manner.<br><br>
 
-The other details about the Task and how to deploy it are in the "Readme_task3" file under Task3 folder<br><br>
+The other details about the Task 3 and how to deploy it are in the "Readme_task3" file under Task3 folder<br><br>
 The video demonstration of Task 3 is <a href="https://drive.google.com/file/d/1bIn-FoeXaHuOoDRmfNfFjhRWlu-Dl0E8/view?usp=sharing">here</a><br><br><br>
